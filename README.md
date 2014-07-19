@@ -1,4 +1,3 @@
-ttfc
+ttfc Version 0.1
 ====
-
-xxx
+TTFC-TT Football Club Website Code
